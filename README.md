@@ -1,4 +1,4 @@
-![Architecture Overview](./images/Digital_Skola.jpg)
+<img src="./images/Digital_Skola.jpg" alt="Architecture Overview" width="500"/>
 
 ## Welcome Project Version Control System And Scm
 
