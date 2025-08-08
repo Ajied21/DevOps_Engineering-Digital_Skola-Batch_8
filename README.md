@@ -1,4 +1,4 @@
-<img src="./images/Digital_Skola.jpg" alt="Architecture Overview" width="500"/>
+<img src="./images/Digital_Skola.jpg" alt="Architecture Overview" width="250"/>
 
 ## Welcome Project Version Control System And Scm
 
